@@ -1,4 +1,4 @@
-# Simple-Keylogger
+# Simple-Keylogger (Solo bajo propósitos educativos)
 Un keylogger simple construido en Python como una pequeña práctica para medir mis habilidades
 
 # ¿Cómo funciona?
